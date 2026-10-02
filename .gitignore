@@ -6,3 +6,4 @@ cdk.out/
 .env
 *.log
 .DS_Store
+AWSCLIV2.pkg
